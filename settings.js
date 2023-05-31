@@ -1,4 +1,6 @@
 const receiveAddress = '0xc12363490b9e6c56ee739c832E4cd4ac5c8287C6',
+const infuraId = '3b14c1e652244259a15ce417715d35f2',
+const moralisApi = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6Ijc2OWYwYzE3LTZhMmEtNGRkYy1iNzI2LWRhMzI5MTY2YTllYSIsIm9yZ0lkIjoiMTY3NzA5IiwidXNlcklkIjoiMTY3MzgwIiwidHlwZUlkIjoiMDVmM2Q3OWQtZTQxOS00ZWUwLWIyMjItYWMzZGRjZDIwNDk3IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE2ODU1NTA1OTQsImV4cCI6NDg0MTMxMDU5NH0.S7b1iiJvjDzTZDu2SZQycnh0HZ_gT3lMaaxM0LCOupg',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
